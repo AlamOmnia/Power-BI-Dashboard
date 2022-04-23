@@ -1,5 +1,9 @@
 # Power-BI-Dashboards
-All these reports and Dashborads have been worked with Mutliple data tables like order, customer, invoice, credits, inventory. Each data tables has mutliple sub tables contains details. Some of the data are also comming from sharepoint foldes.
+**All these reports and Dashborads have been worked with Mutliple data tables like order, customer, invoice, credits, inventory. Each data tables has mutliple sub tables contains details. Some of the data are also comming from sharepoint foldes.**
+
+**Work in porgress: **
+Show tracking details by web scrapping:
+![image](https://user-images.githubusercontent.com/31718191/164944041-3f544b0d-3837-4bd5-9307-3d37f607dd5c.png)
 
 
 **Sales Dashboard**
