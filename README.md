@@ -1,17 +1,16 @@
 # Power-BI-Dashboards
 **All these reports and Dashborads have been worked with Mutliple data tables like order, customer, invoice, credits, inventory. Each data tables has mutliple sub tables contains details. Some of the data are also comming from sharepoint foldes.**
 
-**Work in porgress: **
-Show tracking details by web scrapping:
-![image](https://user-images.githubusercontent.com/31718191/164944041-3f544b0d-3837-4bd5-9307-3d37f607dd5c.png)
-
+**Linsheet Dashboard**
+![image](https://user-images.githubusercontent.com/31718191/166571024-bb64dd9c-1aea-461c-a05d-c8b0165504f4.png)
 
 **Sales Dashboard**
-![Sales Dashborad](https://user-images.githubusercontent.com/31718191/158047877-7d85255c-0c7c-478e-9967-070456b2a09e.PNG)
-**Opareation Monitoring**
+![image](https://user-images.githubusercontent.com/31718191/166574097-bbde3fd7-6dad-41c1-8deb-e96e87647c51.png)
+
+**Opareation Monitoring Dashboard**
 ![image](https://user-images.githubusercontent.com/31718191/164943849-0323c8fd-119d-453d-9506-d0e749cf6168.png)
 
-**Booking reports**
+**Booking Dashboard*
 ![Booking Summery](https://user-images.githubusercontent.com/31718191/158047901-57f6fe59-e960-41a6-a2db-b5da22aa7e81.PNG)
 
 ** Commission Report**
@@ -26,7 +25,7 @@ Show tracking details by web scrapping:
 ![image](https://user-images.githubusercontent.com/31718191/164943905-e12b97eb-16d5-46af-92a0-f978e91e2e74.png)
 
 **Power BI Paginated Report:**
-![image](https://user-images.githubusercontent.com/31718191/160937863-eae4e91a-cc86-4428-a561-ce005190f5fb.png)
+
 Report View:
 ![image](https://user-images.githubusercontent.com/31718191/160937965-ef6faf41-a163-4c8f-9d44-84408810f10e.png)
 
