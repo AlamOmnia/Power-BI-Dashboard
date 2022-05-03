@@ -5,7 +5,7 @@
 ![image](https://user-images.githubusercontent.com/31718191/166571024-bb64dd9c-1aea-461c-a05d-c8b0165504f4.png)
 
 **Sales Dashboard**
-![image](https://user-images.githubusercontent.com/31718191/166574097-bbde3fd7-6dad-41c1-8deb-e96e87647c51.png)
+![image](https://user-images.githubusercontent.com/31718191/166587883-dc97ca70-b6eb-4060-a887-a979bab28381.png)
 
 **Opareation Monitoring Dashboard**
 ![image](https://user-images.githubusercontent.com/31718191/164943849-0323c8fd-119d-453d-9506-d0e749cf6168.png)
